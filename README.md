@@ -1,6 +1,5 @@
 # YouTube ReVanced-Extended
-this repo contain patched youtube and youtube music app and magisk module
-
+This ropo contain revanced extended apps/module
 Get the [latest CI release](https://github.com/TheBizarreAbhishek/ReVanced-Extended/releases/)
 # Features
   ● Updated with the latest versions of patches.
@@ -25,5 +24,3 @@ Get the [latest CI release](https://github.com/TheBizarreAbhishek/ReVanced-Exten
 [ReVanced Team](https://github.com/revanced) for [MicroG](https://github.com/ReVanced/GmsCore/releases).
 
 [inotia00](https://github.com/inotia00) for [revanced-extended patches](https://github.com/inotia00/revanced-patches).
-
-[aandea](https://github.com/anddea) for [YouTube-Advance patches](https://github.com/anddea/revanced-patches)
