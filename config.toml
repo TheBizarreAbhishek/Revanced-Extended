@@ -1,7 +1,6 @@
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 
 
-
 [Music-Extended]
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
@@ -12,6 +11,7 @@ build-mode = "both"
 excluded-patches = "'Custom branding name YouTube Music' 'Custom branding icon YouTube Music'"
 included-patches = "'Custom package name'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+arch = "both"
 
 [YouTube-Extended]
 app-name = "YouTube"
